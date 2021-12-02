@@ -6,7 +6,7 @@ body{
 .navbar{
     background: #0E0004;
 }
-.nav-link{
+.nav-link,.navbar-collapse{
     color:#fff;
     cursor: pointer;
 }
@@ -18,7 +18,7 @@ body{
     margin-right: 1em !important;
 }
 .nav-link:hover{
-    color: #1316b9;
+    color: #b91374;
 }
 .navbar-collapse{
     justify-content: flex-end;
