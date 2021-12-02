@@ -6,13 +6,13 @@ body{
 .navbar{
     background: #0E0004;
 }
-.nav-link
+.nav-link,
 .navbar-brand{
     color:#fff;
     cursor: pointer;
 }
 .nav-link{
-    margin-left: 1em !important;
+    margin-right: 1em !important;
 }
 .nav-link:hover{
     color: #B91372;
