@@ -4,11 +4,11 @@ body{
     background: #f2f6e9;
 }
 .navbar{
-    background: #0E0004;
+    background: #FA198B;
 }
 .nav-link
 .navbar-brand{
-    color:#fff;
+    color:#FA198B;
     cursor: pointer;
 }
 .nav-link{
