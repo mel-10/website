@@ -9,18 +9,16 @@ body{
 .nav-link{
     color:#fff;
     cursor: pointer;
-    text-align: left;
+    justify-content: left;
 }
 .navbar-brand{
     color:#fff;
     cursor: pointer;
+    justify-content: right;
 }
 .nav-link{
     margin-right: 1em !important;
 }
 .nav-link:hover{
     color: #b91374;
-}
-.navbar-collapse{
-    justify-content: left;
 }
