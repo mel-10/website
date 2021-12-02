@@ -11,9 +11,7 @@ body{
     cursor: pointer;
 }
 .navbar-brand{
-    color:#fff;
-    cursor: pointer;
-    justify-content: right;
+    justify-content: center;
 }
 .nav-link{
     margin-right: 1em !important;
@@ -22,5 +20,5 @@ body{
     color: #b91374;
 }
 .navbar-collapse{
-    justify-content: left;
+    text-align: center;
 }
