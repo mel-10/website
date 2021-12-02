@@ -18,7 +18,8 @@ body{
 .nav-link{
     margin-right: 1em !important;
 }
-.nav-link:hover{
+.nav-link,
+.navbar-brand:hover{
     color: #b91374;
 }
 .navbar-collapse{
