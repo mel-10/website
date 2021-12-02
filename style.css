@@ -22,5 +22,5 @@ body{
     color: #b91374;
 }
 .navbar-collapse{
-    justify-content: flex-end;
+    justify-content: left;
 }
