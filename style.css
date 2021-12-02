@@ -9,11 +9,11 @@ body{
 .nav-link{
     color:#fff;
     cursor: pointer;
+    text-align: left;
 }
 .navbar-brand{
     color:#fff;
     cursor: pointer;
-    align-content: left;
 }
 .nav-link{
     margin-right: 1em !important;
