@@ -46,5 +46,8 @@ body{
 }
 .description h1{
     color: #D6DBB2;
-    font-family: "proxima-nova","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-style: italic;
+    font-weight: bold;
+
 }
