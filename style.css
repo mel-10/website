@@ -37,3 +37,13 @@ body{
     top: 0;
     background: rgb(0,0,0,0.6);
 }
+.descriptiion{
+    left: 50%;
+    position: absolute;
+    top :45%;
+    transform: translate(-50%,-55%);
+}
+.description h1{
+    color: #fff;
+    font-family: 'Fleur De Leah', cursive;
+}
