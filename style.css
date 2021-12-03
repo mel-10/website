@@ -52,3 +52,15 @@ body{
     font-size: 325%;
 
 }
+.description button{
+    border: 1px solid #A3B18A;
+    background: #DAD7CD;
+    border-radius: 50px 20px;
+    color: #344E41;
+    
+}
+.description button:hover{
+    border: 1px solid #fff;
+    background: #fff;
+    color: #000;
+}
