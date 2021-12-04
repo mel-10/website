@@ -88,10 +88,12 @@ body{
     background-size: auto;
     background-position: center;
 }
+.background{
+    background: #000;
+}
 .background button{
     border: 1px solid #fff;
     background: #000;
     color: #fff;
     position: center;
-
 }
