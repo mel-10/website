@@ -84,9 +84,11 @@ body{
 
 }
 .pic{
-    background-image: url('k.jpg');
+    background-image: url('1c64a5725b70ac91d7bf7e6f83082454.jpg');
     background-size: cover;
     background-position: center;
     position: relative;
 }
-
+.background{
+    background: #000;
+}
