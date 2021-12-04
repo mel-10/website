@@ -87,11 +87,11 @@ body{
     background-image: url('k.jpg');
     background-size: auto;
     background-position: center;
-    position: relative;
 }
 .background button{
-    border: 1px solid #A3B18A;
+    border: 1px solid #fff;
     background: #000;
     color: #fff;
+    position: center;
 
 }
