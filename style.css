@@ -85,11 +85,8 @@ body{
 }
 .pic{
     background-image: url('k.jpg');
-    background-size: auto;
+    background-size: cover;
     background-position: center;
-}
-.background{
-    background: #000;
 }
 .background button{
     border: 1px solid #fff;
