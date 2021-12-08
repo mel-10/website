@@ -83,11 +83,8 @@ body{
 	margin-bottom: 16px;
 
 }
-.pic{
+.pic img{
     max-width: 100%;
     max-height: 100%;
 
-}
-.background{
-    background-color: #000;
 }
