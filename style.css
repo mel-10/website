@@ -103,7 +103,7 @@ body{
     height: 0;
     transition: .5s ease;
 }
-.lost :hover .overlay img{
+.lost:hover .overlay text{
     height: 100%;
 }
 
