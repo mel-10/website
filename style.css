@@ -83,3 +83,10 @@ body{
 	margin-bottom: 16px;
 
 }
+.pic{
+    size: cover;
+    position: center;
+}
+.background{
+    background-color: #000;
+}
