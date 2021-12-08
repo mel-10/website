@@ -86,7 +86,6 @@ body{
 .pic{
     max-width: 100%;
     max-height: auto;
-    position: center;
 }
 .background{
     background-color: #000;
