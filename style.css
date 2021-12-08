@@ -84,7 +84,8 @@ body{
 
 }
 .pic{
-    size: cover;
+    max-width: 100%;
+    max-height: auto;
     position: center;
 }
 .background{
