@@ -83,15 +83,15 @@ body{
 	margin-bottom: 16px;
 
 }
-.picture{
+.lost{
     position: relative;
     width: 100%;
 }
-.picture img{
+.lost img{
     max-width: 100%;
     max-height: auto;
 }
-.overlay picture{
+.overlay .lost{
     position: absolute;
     bottom: 0;
     left: 0;
@@ -102,7 +102,7 @@ body{
     height: 0;
     transition: .5s ease;
 }
-.picture:hover .overlay picture {
+.picture:hover .overlay .lost{
     height: 100%;
 }
 .text {
