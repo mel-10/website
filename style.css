@@ -87,12 +87,12 @@ body{
     position: relative;
     width: 100%;
 }
-.lost image{
+.lost img{
     max-width: 100%;
     max-height: auto;
 }
 
-.lost :hover .overlay{
+.lost:hover .overlay{
     height: 100%;
 }
 .lost .overlay{
