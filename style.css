@@ -85,8 +85,8 @@ body{
 }
 .pic{
     max-width: 100%;
-    max-height: auto;
-    object-fit: cover;
+    max-height: 100%;
+
 }
 .background{
     background-color: #000;
