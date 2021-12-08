@@ -102,7 +102,7 @@ body{
     height: 0;
     transition: .5s ease;
 }
-.picture:hover .overlay  {
+.picture:hover .overlay picture {
     height: 100%;
 }
 .text {
