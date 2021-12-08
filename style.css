@@ -92,10 +92,6 @@ body{
     max-width: 100%;
     max-height: auto;
 }
-
-.lost:hover .overlay{
-    height: 100%;
-}
 .lost .overlay{
     position: absolute;
     bottom: 0;
@@ -107,6 +103,10 @@ body{
     height: 0;
     transition: .5s ease;
 }
+.lost:hover .overlay{
+    height: 100%;
+}
+
 .text {
     color: #fff;
   font-size: 20px;
