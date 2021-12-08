@@ -84,6 +84,6 @@ body{
 
 }
 .pic img{
-    max-width: 3000px;
+    max-width: 100%;
     max-height: auto;
 }
