@@ -91,7 +91,7 @@ body{
     max-width: 100%;
     max-height: auto;
 }
-.overlay .lost{
+.overlay txt{
     position: absolute;
     bottom: 0;
     left: 0;
@@ -102,7 +102,7 @@ body{
     height: 0;
     transition: .5s ease;
 }
-.picture:hover .overlay .lost{
+.picture:hover .overlay txt{
     height: 100%;
 }
 .text {
