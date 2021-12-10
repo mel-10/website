@@ -102,7 +102,7 @@ body{
     overflow: hidden;
     width: 0;
     height: 0;
-    transition: width 2s linear 1s;
+    transition: .5s ease-in;
 }
 .lost img:hover .lost .overlay {
      width: 100%;
