@@ -102,10 +102,10 @@ body{
     overflow: hidden;
     width: 0;
     height: 0;
-    transition: .5s ease;
+    transition: width 2s linear 1s;
 }
 .lost img:hover .lost .overlay {
-    height: 100%;
+     width: 100%;
 }
 
 .text {
@@ -114,9 +114,6 @@ body{
   position: absolute;
   top: 50%;
   left: 50%;
-  -webkit-transform: translate(-50%, -50%);
-  -ms-transform: translate(-50%, -50%);
-  transform: translate(-50%, -50%);
-  white-space: nowrap;
+
 }
   
