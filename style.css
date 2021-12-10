@@ -100,7 +100,7 @@ body{
     right: 0;
     background-color: #000;
     overflow: hidden;
-    width: 100%;
+    width: 0;
     height: 0;
     transition: .5s ease;
 }
