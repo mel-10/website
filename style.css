@@ -104,14 +104,14 @@ body{
     height: 0;
     transition: .5s ease-in;
 }
-.lost img:hover .lost .overlay {
+.lost img:hover  .overlay {
      width: 100%;
 }
 
 .text {
     color: #fff;
   font-size: 20px;
-  position: absolute;
+  position: center;
   top: 50%;
   left: 50%;
 
